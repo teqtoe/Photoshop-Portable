@@ -1,0 +1,46 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"ApplicationPath"="D:\\Personal Data\\Exe\\Media\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\"
+"PluginPath"="D:\\Personal Data\\Exe\\Media\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\Plug-Ins\\"
+"FreeBeforeSlopAdjust"=dword:00376c50
+"FreeSpace"=dword:001e3392
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+@="D:\\Personal Data\\Exe\\Media\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+@="D:\\Personal Data\\Exe\\Media\\PhotoshopPortable\\App\\PhotoshopCS6_x64\\Plug-Ins\\"
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="357DF0356ADCFF765873FF25FF9B4C2"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-09-22T17:12:51.260Z]
+@="C:\\Users\\Mani\\Downloads\\IMG_20200922_114959.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2020-09-22T17:12:53.71Z]
+@="C:\\Users\\Mani\\Downloads\\IMG_20200922_115129.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"uiLanguageKey CS6"="en_US"
+"oldPaletteFontTypeKey CS6"=dword:00000000
+"MemoryUsage64"=dword:0000003c
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="C:\\Users\\Mani\\Downloads\\"
